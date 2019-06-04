@@ -6,3 +6,7 @@ The stopwatch layout was developed by Nail Davlyatchin in this [Codepen](https:/
 
 ## Instructions to run
 
+1. Clone the project `git clone https://github.com/CGReinhold/electron-stopwatch.git`;
+2. Navigate to project folder `cd electron-stopwatch`;
+3. Install dependencies `npm install`;
+4. Run project `npm start`.
